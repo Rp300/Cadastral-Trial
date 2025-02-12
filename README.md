@@ -79,7 +79,7 @@ Tesseract OCR demonstrates strong performance for real estate document processin
 The modular evaluation framework developed in this analysis can be readily extended to assess other OCR providers, requiring minimal modifications to accommodate new APIs. Future work could focus on:
 - Enhancing OCR performance through image preprocessing techniques
 - Evaluating other OCR providers using the existing evaluation framework
-- Developing domain-specific accuracy metrics for real estate documents (e.g., address formatting, parcel number accuracy)
+- Developing domain-specific accuracy metrics for real estate documents
 
 
 \
